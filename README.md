@@ -1,5 +1,5 @@
 # Wacom Driver Restarter
-A little batch file for restarting Wacom Tablet driver to fix various problems with Wacom pen tablet on Windows.
+A batch file for restarting Wacom Tablet driver to fix various problems with Wacom pen tablet on Windows.
 
 ## Why I create this?
 Many of my friends are struggling with pen sensitivity problem and they always ask me how to fix this without restarting their computer. They don't have many knowledge with computer and I want to make this easy for them.
