@@ -10,6 +10,6 @@ So, I created this batch file myself for them and they think it will be great if
 This batch is using [BatchGotAdmin](https://sites.google.com/site/eneerge/scripts/batchgotadmin) by EneergE.
 
 ## Note
-I've written this a long time ago around 2-3 years when I started learning about coding.
+I've written this a long time ago when I started learning about coding.
 
 This repository will be rewritten into a Wacom Troubleshooter soon.
